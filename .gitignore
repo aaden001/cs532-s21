@@ -1,0 +1,16 @@
+# General Ignore Rules
+**.zip
+**.pyc
+**/docs
+**.o
+**.exe
+**.zip
+**jar
+!**gradle/wrapper/*.jar
+
+# Python Disttools
+MANIFEST
+
+
+# Python Tox
+**.tox
